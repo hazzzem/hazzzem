@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hazzzem
 - 👀 I’m interested in Problem-Solving
 - 🌱 I’m currently learning Computer Science Degree
-- 💞️ I’m looking to collaborate on gitHub
+- 💞️ I’m looking to collaborate on ... (i'm still learning)
 - 📫 contact me on knewgg@gmail.com
 
 <!---
